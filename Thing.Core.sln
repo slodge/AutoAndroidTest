@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thing.Core", "Thing.Core\Thing.Core.csproj", "{7006AE04-7E05-40B0-9953-6360E7B535DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thing.Droid", "Thing.Droid\Thing.Droid.csproj", "{2D8D7CB6-5ADF-4998-AC8A-9242383E4C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7006AE04-7E05-40B0-9953-6360E7B535DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7006AE04-7E05-40B0-9953-6360E7B535DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7006AE04-7E05-40B0-9953-6360E7B535DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7006AE04-7E05-40B0-9953-6360E7B535DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8D7CB6-5ADF-4998-AC8A-9242383E4C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8D7CB6-5ADF-4998-AC8A-9242383E4C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8D7CB6-5ADF-4998-AC8A-9242383E4C51}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2D8D7CB6-5ADF-4998-AC8A-9242383E4C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8D7CB6-5ADF-4998-AC8A-9242383E4C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8D7CB6-5ADF-4998-AC8A-9242383E4C51}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
